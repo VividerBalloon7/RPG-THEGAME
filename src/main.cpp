@@ -1,7 +1,3 @@
-// Dungeon Debugger
-// Build:  g++ -Wall -o rpg main.cpp character.cpp monster.cpp
-// The full game spec is in README.md — read it before you play.
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
