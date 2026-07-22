@@ -1,5 +1,3 @@
-// Dungeon Debugger
-// Build: g++ -Wall -o rpg main.cpp character.cpp monster.cpp
 
 #include <iostream>
 #include <string>
