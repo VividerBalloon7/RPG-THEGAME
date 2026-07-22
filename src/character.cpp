@@ -1,4 +1,4 @@
-#include "../include/character.h"
+#include "character.h"
 #include <iostream>
 
 Character::Character(std::string name, int hp, int attack, int defense) {
