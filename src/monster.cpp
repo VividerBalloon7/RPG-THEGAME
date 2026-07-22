@@ -1,4 +1,4 @@
-#include "../include/monster.h"
+#include "monster.h"
 #include <cstdlib>
 
 Character makeRandomMonster() {
