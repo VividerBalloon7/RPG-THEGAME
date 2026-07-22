@@ -6,7 +6,7 @@ Name: Darius McLendon
 
 ## Bug #2 : The first void function should also pass by reference so it shouldn't be just Character, it should be Character&.
 
-## Bug #3 : In the for loop under character the int i = 0; i <= 3; i++ should be int i = 0; i <=3; i++ , so that the battle ends after 3 rounds.
+## Bug #3 : In the for loop under character the int i = 0; i <= 3; i++ should be int i = 0; i <3; i++ , so that the battle ends after 3 rounds.
 
 ## Bug #4 :  Broken header guard in character.h, the ifdef and ifndef names don't match
 
