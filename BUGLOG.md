@@ -1,6 +1,6 @@
 # BUGLOG
 
-Name: 
+Name: Darius McLendon
 
 ## Bug #1
 
